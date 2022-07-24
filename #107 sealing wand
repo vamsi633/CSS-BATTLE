@@ -1,0 +1,115 @@
+<div class="beak"></div>
+<div class="s"></div>
+<div class="b"></div>
+<div class="cir1"></div>
+<div class="cir2"></div>
+<div class="f1"></div>
+<div class="f2"></div>
+<div class="f3"></div>
+<div class="cir3"></div>
+<div class="cir4"></div>
+
+
+
+<style>
+  *{
+    background-color:#161616;
+  }
+  .cir1{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    background: #A22015;
+    border-radius:50%;
+    margin-top:112px;
+    margin-left:164px;  
+  }
+  .cir2{
+     position:absolute;
+    width: 48px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius:50%;
+    margin-top:118px;
+    margin-left:169px;
+  }
+  .cir3{
+      position:absolute;
+    width: 30px;
+    height: 30px;
+    background: #A22015;
+    border-radius:50%;
+    margin-top:127px;
+    margin-left:177px;
+  }
+  .cir4{
+     position:absolute;
+    width: 20px;
+    height: 20px;
+    background: #161616;
+    border-radius:50%;
+    margin-top:132px;
+    margin-left:182px;
+  }
+  .f1{
+    position:absolute;
+    width:60px;
+    height:12px;
+    background-color:#FFFFFF;
+    border-radius:0 0 0 50px;
+    margin-top:124px;
+    margin-left:122px;
+  }
+   .f2{
+    position:absolute;
+    width:60px;
+    height:13px;
+    background-color:#FFFFFF;
+    border-radius:0 0 0 50px;
+    margin-top:135px;
+    margin-left:137px;
+  }
+   .f3{
+    position:absolute;
+    width:55px;
+    height:13px;
+    background-color:#FFFFFF;
+    border-radius:0 0 0 50px;
+    margin-top:146px;
+    margin-left:152px;
+  }
+  .beak{
+      position:absolute;
+    width:80px;
+    height:40px;
+    background-color:#E96A23;
+    border-radius:0 50px 5px 0 ;
+    margin-top:121px;
+    margin-left:192px
+  }
+  .b{
+    position:absolute;
+    width:28px;
+    height:35px;
+    border-radius:10px;
+    background-color:#A22015;
+    margin-top:159px;
+    margin-left:179px;
+  }
+  .s{
+    position:absolute;
+    width:20px;
+    height:134px;
+    background-color:#E96A23;
+    margin-top:160px;
+    margin-left:183px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
