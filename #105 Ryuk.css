@@ -1,0 +1,171 @@
+<div  class="tri"></div>
+<div  class="c1"></div>
+<div  class="t1"></div>
+<div  class="t2"></div>
+<div class="c12"></div>
+<div class="c15"></div>
+<div class="c13"></div>
+<div class="c14"></div>
+<div  class="c2"></div>
+<div  class="t21"></div>
+<div  class="t22"></div>
+<div  class="c22"></div>
+<div class="c25"></div>
+<div class="c23"></div>
+<div class="c24"></div>
+<style>
+  *{
+    background-color:#BAC7CE;
+  }
+  .tri{
+    position:absolute;
+    width: 185px;
+    height: 95px;
+    background: #475862;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform:rotate(180deg);
+    margin-top:-10px;
+    margin-left:99px;
+  }
+  .c1{
+    position:absolute;
+    width:123px;
+    height:120px;
+    background-color:#000000;
+    border-radius:60px;
+    margin-top:122px;
+    margin-left:21px;
+    
+  }
+  .t1{
+    position:absolute;
+    width:80px;
+    height:40px;
+    background-color:#000000;
+     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform:rotate(-60deg);
+    margin-top:130px;
+    margin-left:-15px
+  }
+    .t2{
+    position:absolute;
+    width:80px;
+    height:40px;
+    background-color:#000000;
+     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform:rotate(120deg);
+    margin-top:195px;
+    margin-left:100px
+  }
+  .c12{
+    position:absolute;
+    width:100px;
+    height:100px;
+    border:50px;
+    background-color:#5A6042;
+    border-radius:50px;
+    margin-top:133px;
+    margin-left:32px;
+  }
+  .c13{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:#000000;
+    border-radius:20px;
+    margin-top:162px;
+    margin-left:62px;
+  }
+  .c14{
+    position:absolute;
+    width:30px;
+    height:30px;
+    background-color:#4E2B24;
+    border-radius:15px;
+    margin-top:167px;
+    margin-left:67px;
+  }
+  .c15{
+    position:absolute;
+    width:95px;
+    height:85px;
+    background-color:#868A64;
+    border-radius:95px 95px 100px 100px;
+    margin-top:148px;
+    margin-left:35px;
+  }
+  .c2{
+    position:absolute;
+    width:123px;
+    height:120px;
+    background-color:#000000;
+    border-radius:60px;
+    margin-top:122px;
+    margin-left:240px;
+  }
+   .t21{
+    position:absolute;
+    width:80px;
+    height:40px;
+    background-color:#000000;
+     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform:rotate(-120deg);
+    margin-top:195px;
+    margin-left:204px
+  }
+     .t22{
+    position:absolute;
+    width:80px;
+    height:40px;
+    background-color:#000000;
+     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    transform:rotate(61deg);
+    margin-top:130px;
+    margin-left:320px
+  }
+  .c22{
+    position:absolute;
+    width:100px;
+    height:100px;
+    border:50px;
+    background-color:#5A6042;
+    border-radius:50px;
+    margin-top:133px;
+    margin-left:255px;
+  }
+   .c25{
+    position:absolute;
+    width:98px;
+    height:85px;
+    background-color:#868A64;
+    border-radius:95px 95px 100px 100px;
+    margin-top:148px;
+    margin-left:255px;
+  }
+  .c23{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:#000000;
+    border-radius:20px;
+    margin-top:162px;
+    margin-left:282px;
+  }
+  .c24{
+    position:absolute;
+    width:30px;
+    height:30px;
+    background-color:#4E2B24;
+    border-radius:15px;
+    margin-top:167px;
+    margin-left:287px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
