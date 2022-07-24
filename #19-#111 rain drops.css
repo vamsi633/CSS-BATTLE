@@ -1,0 +1,54 @@
+<body>
+<div class="main">
+  <div class="one"></div>
+  <div class="two"></div>
+  <div class="three"></div>
+</div>
+  </body>
+<style>
+  
+  body{
+    background:#F3AC3C;
+  }
+  .one{
+    position:absolute;
+    top:40px;
+    left:160px;
+    width:80px;
+    height:80px;
+    background:#254241;
+    border-radius:50px;
+    border-bottom-left-radius:0px;
+    transform:rotate(-45deg); 
+  }
+  .two{
+    position:absolute;
+    top:180px;
+    left:160px;
+    width:80px;
+    height:80px;
+    background:#254241;
+    border-radius:50px;
+    border-bottom-left-radius:0px;
+    transform:rotate(135deg); 
+  }
+  .three{
+    position:absolute;
+    top:112px;
+    left:80px;
+    width:80px;
+    height:80px;
+    background:#254241;
+    border-radius:50px;
+    border-bottom-left-radius:0px;
+    transform:rotate(220deg); 
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
