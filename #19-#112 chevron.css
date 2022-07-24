@@ -1,0 +1,49 @@
+<body>
+<div class="main">
+  <div class="one"></div>
+  <div class="two"></div>
+  <div class="three"></div>
+ </div>
+</body>
+<style>
+  body{
+    background:#6592CF;
+  }
+  
+
+  .one{
+    position:absolute;
+    width: 250px;
+    height: 200px;
+    background: #293D7E;
+    left:75px;
+    top:50px;
+    clip-path: polygon(0% 0%, 50% 50%, 100% 0%, 84.5% 0%, 50% 34.5%, 15.5% 0%);
+  }
+  .two{
+   position:absolute;
+    width: 250px;
+    height: 200px;
+    background: #293D7E;
+    left:75px;
+    top:100px;
+    clip-path: polygon(0% 0%, 50% 50%, 100% 0%, 84.5% 0%, 50% 34.5%, 15.5% 0%);
+  }
+  .three{
+    position:absolute;
+    width: 250px;
+    height: 200px;
+    background: #293D7E;
+    left:75px;
+    top:150px;
+    clip-path: polygon(0% 0%, 50% 50%, 100% 0%, 84.5% 0%, 50% 34.5%, 15.5% 0%);
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
