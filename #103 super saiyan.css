@@ -1,0 +1,108 @@
+<div class="e2"></div>
+<div class="e1"></div>
+<div class="halfc1"></div>
+<div class="halfc2"></div>
+<div class="smile"></div>
+<div class="hc1"></div>
+<div class="hc2"></div>
+<div class="mhc1"></div>
+<div class="mhc2"></div>
+
+<style>
+  *{
+    background-color:#161616;
+  }
+  .halfc1{
+    position:absolute;
+    width: 40px;
+    height: 60px;
+    background:#FFFFFF;
+    border-radius:0px 0px 0px 50px;
+    margin-top:147px;
+    margin-left:150px;
+  }
+  .halfc2{
+    position:absolute;
+    width: 40px;
+    height: 60px;
+    background:#FFDEB9;
+    border-radius:0px 0px 50px 0px;
+    margin-top:147px;
+    margin-left:190px;
+  }
+  .smile{
+    position:absolute;
+    width: 20px;
+    height: 10px;
+    background-color:#161616;
+    border-radius:0 0 50px 50px;
+    margin-top:188px;
+    margin-left:180px;
+  }
+  .hc1{
+    position:absolute;
+    width:30px;
+    height:60px;
+    background-color:#EBAE11;
+    border-radius:50px 0px 0px 50px;
+    transform:rotate(-35deg);
+    margin-top:112px;
+    margin-left:150px;
+  }
+  .hc2{
+    position:absolute;
+    width:30px;
+    height:60px;
+    background-color:#EBAE11;
+    border-radius:50px 0px 0px 50px;
+    transform:rotate(210deg);
+    margin-top:110px;
+    margin-left:205px;
+  }
+   .mhc1{
+    position:absolute;
+    width:20px;
+    height:80px;
+    background-color:#EBAE11;
+    border-radius:1000% 0% 0% 190%;
+    margin-top:75px;
+    margin-left:175px;
+  }
+   .mhc2{
+    position:absolute;
+    width:20px;
+    height:80px;
+    background-color:#EBAE11;
+    border-radius:0% 1110% 190% 0%;
+    margin-top:75px;
+    margin-left:190px;
+  }
+   .e1{
+    position:absolute;
+    width:30px;
+    height:50px;
+    background-color:#EBAE11;
+    border-radius:50px 0px 0px 50px;
+    transform:rotate(-80deg);
+    margin-top:140px;
+    margin-left:140px;
+  }
+  .e2{
+    position:absolute;
+    width:30px;
+    height:50px;
+    background-color:#EBAE11;
+    border-radius:50px 0px 0px 50px;
+    transform:rotate(-108deg);
+    margin-top:143px;
+    margin-left:212px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
