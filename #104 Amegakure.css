@@ -1,0 +1,143 @@
+<div class="b1"></div>
+<div class="b2"></div>
+<div class="in"></div>
+<div class="c1"></div>
+<div class="c2"></div>
+<div class="c3"></div>
+<div class="c4"></div>
+<div class="c5"></div>
+<div class="c6"></div>
+<div class="s1"></div>
+<div class="s2"></div>
+<div class="s3"></div>
+<div class="s4"></div>
+<style>
+  *{
+    background-color:#000000
+  }
+  .b1{
+    position:absolute;
+    width: 240px;
+    height: 120px;
+    background: #37385A;
+    border-radius:20px;
+    margin-top:82px;
+    margin-left:72px
+  }
+   .b2{
+     position:absolute;
+    width: 200px;
+    height: 80px;
+    background: #9897AE;
+    border-radius:10px;
+    margin-top:102px;
+    margin-left:92px
+  }
+  .in{
+    position:absolute;
+    width:70px;
+    height:80px;
+    background-color:#C0C3DB;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    margin-top:103px;
+    margin-left:157px;
+  }
+  .c1{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:107px
+  }
+  .c2{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:137px;
+    margin-left:107px
+  }
+  .c3{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:157px;
+    margin-left:107px
+  }
+  .c4{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:267px
+  }
+  .c5{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:137px;
+    margin-left:267px
+  }
+   .c6{
+    position:absolute;
+    width:10px;
+    height:10px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:157px;
+    margin-left:267px
+  }
+  .s1{
+    position:absolute;
+    width:10px;
+    height:50px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:157px;
+  }
+  .s2{
+    position:absolute;
+    width:10px;
+    height:50px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:177px;
+  }
+  .s3{
+    position:absolute;
+    width:10px;
+    height:50px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:197px;
+  }
+  .s4{
+    position:absolute;
+    width:10px;
+    height:50px;
+    background-color:#000000;
+    border-radius:50px;
+    margin-top:117px;
+    margin-left:217px;
+  }
+</style>
+
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
